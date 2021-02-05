@@ -1,5 +1,5 @@
 {
-  "name": "FDL BOT 0.1",
+  "name": "FDL-BOT0.1",
   "version": "1.0.0",
   "description": "bot wa ribet di kode nya tetapi simple di api nya:v",
   "main": "./app.js",
@@ -31,7 +31,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error:no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
