@@ -1,7 +1,7 @@
 pkg update
 pkg upgrade
-pkg install wget -y
-pkg install ffmpeg -y
-pkg install nodejs -y
+pkg install wget
+pkg install ffmpeg
+pkg install nodejs
 npm install
 npm run start
