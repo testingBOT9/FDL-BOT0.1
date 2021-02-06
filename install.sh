@@ -6,4 +6,4 @@ pkg install nodejs
 npm i -g cwebp
 npm i -g ytdl 
 npm i
-npm start
+npm update
