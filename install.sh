@@ -1,7 +1,9 @@
-#!/usr/bin/bash
-pkg update && pkg upgrade
-pkg install nodejs
-pkg install ffmpeg
-pkg install wget
-npm install
-echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+apt upgrade
+apt install
+apt install wget -y
+apt install ffmpeg -y
+apt install nodejs -y
+npm i -g cwebp
+npm i -g ytdl 
+npm i
+npm update
