@@ -1,5 +1,5 @@
-apt update
-apt upgrade
+pkg update
+pkg upgrade
 pkg install wget
 pkg install ffmpeg
 pkg install nodejs
